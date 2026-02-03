@@ -1,0 +1,43 @@
+📈 O Método Simplificado de Benjamin Graham para Ações Baratas
+
+Acelere sua Aprendizagem com IA: O Poder do NotebookLM 🚀
+
+Bem-vindo ao repositório do projeto "O Método Simplificado de Benjamin Graham para Ações Baratas". 
+Este projeto demonstra como utilizar o NotebookLM da Google para processar, analisar e sintetizar estratégias complexas de investimento
+de forma acelerada e inteligente.
+
+📌 Sobre o Projeto
+O objetivo central é aplicar a inteligência artificial para dissecar os princípios de Benjamin Graham, o pai do "Value Investing",
+permitindo que investidores identifiquem ações subestimadas pelo mercado sem a necessidade de ler centenas de páginas de relatórios
+manualmente.
+
+🔗 Acesse o Projeto NotebookLM - Benjamin Graham Aqui: https://notebooklm.google.com/notebook/f4e05c74-b9ae-4269-b147-ca9a2c1e3959 
+
+🛠️ Etapas de Desenvolvimento
+O projeto foi estruturado seguindo um fluxo lógico de curadoria e análise de dados:
+
+**Overview do NotebookLM: Entendimento das capacidades da ferramenta e como ela utiliza o modelo Gemini para interagir com fontes 
+específicas.
+
+**Case Situation: Definição do problema — como simplificar critérios de Graham (como o P/L e o Valor Patrimonial) para o mercado atual.
+
+
+**Listando Fontes de Dados: Seleção de PDFs, links e notas sobre a metodologia de Graham.
+
+**Criando o NotebookLM: Configuração do ambiente e upload dos documentos base.
+
+**Analisando Formatos do Estúdio: Exploração das funcionalidades de resumo, guia de estudo e criação de roteiros de áudio
+(Audio Overview).
+
+**Possibilidades: Insights gerados e como expandir essa análise para outros autores ou setores do mercado financeiro.
+
+💡 O que é o NotebookLM?
+O NotebookLM é um assistente de pesquisa personalizado que utiliza IA. Diferente de chatbots genéricos, ele foca exclusivamente
+nas fontes que você fornece, garantindo que as respostas sejam fundamentadas e minimizando alucinações.
+
+Principais Benefícios:
+Citações Diretas: Clique na resposta da IA e veja exatamente de qual trecho do livro de Graham a informação foi extraída.
+
+Guia de Estudo Automático: Cria FAQs e glossários com base no conteúdo.
+
+Interação por Voz: Gera discussões em áudio sobre os seus documentos.
